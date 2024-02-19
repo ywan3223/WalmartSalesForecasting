@@ -28,5 +28,11 @@ Results demonstrated the efficacy of various vectorization and optimization mode
 </div>
 <img src="/image/result.png" width = "500" height = "200" alt="cmt" />
 
-## Application  
-The project aims to enhance mental health diagnosis by analyzing suicidal ideation in online texts using advanced NLP techniques. It offers a potential pathway for early intervention and support mechanisms by enabling the timely identification of individuals at risk, thereby contributing to preventative mental health care strategies.
+## Future Direction
+1.Data Preprocessing: Apply advanced anomaly detection to identify and correct discrepancies, enhancing data quality.
+2.Feature Engineering: Create sophisticated features, including customer sentiment from social media, to capture deeper insights.
+3.Modeling Techniques: Explore deep learning, such as LSTM networks, for capturing complex data patterns.
+4.Validation and Optimization: Use cross-validation and systematic hyperparameter tuning to refine model accuracy.
+5.External Data: Incorporate broader factors like economic indicators and weather conditions to enrich the model's context.## Application  
+
+The project's application encompasses the strategic refinement of retail operational frameworks by leveraging predictive analytics derived from machine learning algorithms. It empowers retailers to proactively manage inventory, tailor marketing campaigns, and streamline supply chain logistics based on anticipated sales trends. Additionally, this predictive approach facilitates data-driven decision-making, enabling retailers to dynamically adjust to market demands, optimize resource allocation, and enhance the overall customer experience through improved product availability and targeted promotions. By integrating such predictive models, retailers can significantly reduce operational costs, increase revenue through informed stocking decisions, and bolster customer loyalty by meeting consumer needs more effectively.
